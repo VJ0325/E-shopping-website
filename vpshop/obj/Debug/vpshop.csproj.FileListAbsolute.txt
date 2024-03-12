@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2012\Projects\vpshop\vpshop\bin\vpshop.dll
+c:\users\administrator\documents\visual studio 2012\Projects\vpshop\vpshop\bin\vpshop.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\vpshop\vpshop\obj\Debug\vpshop.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\vpshop\vpshop\obj\Debug\vpshop.dll
+c:\users\administrator\documents\visual studio 2012\Projects\vpshop\vpshop\obj\Debug\vpshop.pdb
+C:\Users\Administrator\Documents\VisualStudio2012\Projects\vpshop\vpshop\obj\Debug\vpshop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\VisualStudio2012\Projects\vpshop\vpshop\obj\Debug\vpshop.dll
+C:\Users\Administrator\Documents\VisualStudio2012\Projects\vpshop\vpshop\bin\vpshop.dll
+C:\Users\Administrator\Documents\VisualStudio2012\Projects\vpshop\vpshop\bin\vpshop.pdb
+C:\Users\Administrator\Documents\VisualStudio2012\Projects\vpshop\vpshop\obj\Debug\vpshop.pdb
